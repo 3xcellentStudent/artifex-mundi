@@ -1737,7 +1737,6 @@ li.slick-active button {
        }
    }
 }
-
 @media (max-width: 1254px) {
     .footer_top_img-left {
         position: relative;
@@ -1757,7 +1756,6 @@ li.slick-active button {
         margin-left: 10px;
     }
 }
-/*Media 1199px*/
 @media (max-width:1199px) {
     .games_flex_wrapper h2,   .gameon_header h2 {
         font-size: 64px;
@@ -2070,11 +2068,6 @@ li.slick-active button {
         font-size: 20px;
     }
 }
-/*Media 1199px*/
-
-/******************************/
-
-/*Media 991px*/
 @media (max-width:991px) {
     .header {
         padding: 0 30px;
@@ -2255,9 +2248,6 @@ li.slick-active button {
         font-weight: 500;
     }
 }
-/*Media 991px*/
-/*************************/
-/*Media 767px*/
 @media (max-width:767px) {
     .header {
         height: 100px;
@@ -2367,9 +2357,6 @@ li.slick-active button {
         max-width: 100%;
     }
 }
-/*Media 767px*/
-/*************************/
-/*Media 575px*/
 @media (max-width:575px) {
     .slick-arrow {display: none;}
     .slider_img {
@@ -2443,9 +2430,6 @@ li.slick-active button {
         width: 80%;
     }
 }
-/*Media 575px*/
-/*************************/
-/*Media 506px*/
 @media (max-width:506px) {
     .slider_img {
         height: 100vh;
@@ -2537,39 +2521,3 @@ li.slick-active button {
         font-size: 42px;
     }
 }
-/*Media 506px*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
